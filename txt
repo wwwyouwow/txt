@@ -1,2 +1,12 @@
-vless://35c97a14-92bb-4262-9215-c15ddc1a0075@104.194.158.75:443/?type=ws&encryption=none&flow=&host=usa.pubg.ad.sd&path=%2F%3Fed%3D2560&security=tls&sni=usa.pubg.ad.sd&fp=firefox#Irancell%F0%9F%87%A9%F0%9F%87%AA-vless
-vless://35c97a14-92bb-4262-9215-c15ddc1a0075@81.29.146.34:443/?type=ws&encryption=none&flow=&host=usa.pubg.ad.sd&path=%2F%3Fed%3D2560&security=tls&sni=usa.pubg.ad.sd&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7
+# format: v1
+# Proxies that opened a TLS tunnel to raw.githubusercontent.com:443 and returned
+# sixteen bytes of subs/all.txt, within 8 seconds. Nothing else qualifies.
+#
+# Regenerated 2026-10-01T23:24:05Z · 5304 entries · 2543 proved this run
+# Density: 128/600 of a random sample worked on re-check (21%, measured 2026-10-01) — the file's only real quality score.
+#
+# Format: scheme://host:port | country | ms | days-alive
+# Everything after the first space or | is ignored by the client, so this is safe.
+#
+
+http://172.86.76.137:3128 | AE | 1994ms | 0d
